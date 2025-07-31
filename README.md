@@ -3,6 +3,7 @@
 This project presents a comprehensive dashboard built in Power BI to analyze customer profiles, credit card usage behavior, and performance metrics. It combines demographic data with transaction and activation patterns to uncover actionable insights for customer acquisition, retention, and risk management.
 
 📂 Datasets Used
+
 File Name                    	Description
 customer.csv	           Primary customer demographic data
 cust_add.csv	           Additional customer profiles
