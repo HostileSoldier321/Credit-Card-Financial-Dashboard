@@ -10,6 +10,11 @@
 * credit_card.csv - Weekly credit card usage data  
 * cc_add.csv - Additional credit card activity  
 
+Credit Card Financial Dashboard-Customer
+![Image Alt](image_url)
+Credit Card Financial Dashboard-Transaction
+![Image Alt](image_url)
+
 🧠 Key Insights
 📌 Customer Demographics
 * Majority of credit card users are aged 30-50 years, with a skew towards urban educated males.
