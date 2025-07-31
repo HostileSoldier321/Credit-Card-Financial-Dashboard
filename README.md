@@ -11,9 +11,11 @@
 * cc_add.csv - Additional credit card activity  
 
 Credit Card Financial Dashboard-Customer
-![Image Alt](image_url)
+
+![Image Alt](https://github.com/HostileSoldier321/Credit-Card-Financial-Dashboard/blob/2ef7480db8addebddf08ba9ca426757920ce5871/Credit%20Card%20Financial%20Dashboard-Customer_page-0001.jpg)
 Credit Card Financial Dashboard-Transaction
-![Image Alt](image_url)
+
+![Image Alt](https://github.com/HostileSoldier321/Credit-Card-Financial-Dashboard/blob/2ef7480db8addebddf08ba9ca426757920ce5871/Credit%20Card%20Financial%20Dashboard-Transaction_page-0001.jpg)
 
 🧠 Key Insights
 📌 Customer Demographics
